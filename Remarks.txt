@@ -1,0 +1,23 @@
+     What is Employement Attrition?
+1.  Employee attrition refers to the loss of employees due to life events such as retirement, resignation initiated by the employee, elimination of a position, or other similar event
+
+     Is Employement Attrition bad?
+1. Attrition offers opportunities for new ideas and dynamics. It can refresh an organization and offer current employees new opportunities
+2. It’s not always easy to change the culture of an organization, especially without replacing entire teams. Natural employee attrition allows employers to refresh a company culture without firing or layoffs
+3. Employement attrition is not always bad, but high employement attrition is bad
+
+Conclusion
+
+    From the Data Visualisation we can depicted:
+1. Younger employees attrit more when compared to older employees
+2. Lower income employees attrit more in number
+3. Lack of job involvement or job satisfaction lead to attrit
+4. Overtime jobs have more attrition
+5. Employees who travel frequently have high attrition
+
+    Factors that would reduce Employee Attrition:
+1. Providing a good environment
+2. Good management and open conversations with managers
+3. Good job involvement through real time feedback and recognition
+4. Increasing bonus and salary hikes and providing opportunities to advance
+5. Reducing the workload and therby reducing the factor of overtime
